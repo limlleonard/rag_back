@@ -1,0 +1,4 @@
+create project
+create app
+setup urls views
+fix CORS in installed app, middleware, allowed host
